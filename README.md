@@ -8,9 +8,6 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SheenShaman)](https://git.io/streak-stats)
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=SheenShaman&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
-
-
 <!--
 **SheenShaman/SheenShaman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
